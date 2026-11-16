@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="300dp" android:height="300dp" android:viewportWidth="300" android:viewportHeight="300">
+    <path android:pathData="M150,150 L150,28" android:strokeColor="@color/widget_hand_min"
+        android:strokeWidth="22" android:strokeLineCap="round" />
+    <path android:fillColor="@color/widget_hand_dot"
+        android:pathData="M133,150 a17,17 0 1,0 34,0 a17,17 0 1,0 -34,0z" />
+</vector>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="300dp" android:height="300dp" android:viewportWidth="300" android:viewportHeight="300">
+    <path android:pathData="M150,150 L150,72" android:strokeColor="@color/widget_hand_hour"
+        android:strokeWidth="28" android:strokeLineCap="round" />
+</vector>

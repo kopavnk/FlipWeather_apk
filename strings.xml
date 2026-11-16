@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FlipWeather</string>
+    <string name="widget_desc">Battery, analog clock and weather (Open-Meteo)</string>
+</resources>
